@@ -1,0 +1,12 @@
+.env
+*.env
+__pycache__/
+*.pyc
+*.pyo
+.pythonlibs/
+.local/
+.config/
+.cache/
+*.log
+.replit
+replit.nix
